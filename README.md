@@ -1,6 +1,6 @@
 ### Hi, I'm awesomeDream 👋
 
-### Solved.ac [![Solved.ac Badge](http://mazassumnida.wtf/api/mini/generate_badge?boj=awesomeRing)](https://solved.ac/awesomeRing)
+### Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=awesomeRing)](https://solved.ac/awesomeRing)
 
 <!--
